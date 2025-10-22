@@ -67,14 +67,14 @@ title = 'Debic-IT'
 description = 'Debic-IT Website'
 images = ['/img/logo.svg']
 sections = [
-  "showcase",
+  # "showcase",
   "about",
-  "education",
-  "experience",
-  "client-and-work",
-  "testimonial",
+  # "education",
+  # "experience",
+  # "client-and-work",
+  # "testimonial",
   "contact",
-  "newsletter",
+  # "newsletter",
 ]
 # If you want to display an image logo in the header, you can add it here
 #logo = '/img/logo.svg'
@@ -133,23 +133,23 @@ weight = 1
 name = 'About'
 URL = '#about'
 weight = 2
-[[languages.en.menus.header]]
-name = 'Skills'
-URL = '/skills'
-weight = 3
-[[languages.en.menus.header]]
-name = 'Portfolio'
-URL = '#portfolio'
-weight = 4
+# [[languages.en.menus.header]]
+# name = 'Skills'
+# URL = '/skills'
+# weight = 3
+# [[languages.en.menus.header]]
+# name = 'Portfolio'
+# URL = '#portfolio'
+# weight = 4
 #  [[languages.en.menus.header]]
 #  name = "Experience"
 #  URL = "#experience"
 #  weight = 4
 
-[[languages.en.menus.header]]
-name = "How to"
-URL = "/blog"
-weight = 5
+# [[languages.en.menus.header]]
+# name = "How to"
+# URL = "/blog"
+# weight = 5
 
 [[languages.en.menus.header]]
 pre = "email"
@@ -166,26 +166,26 @@ weight = 7
 [[languages.en.menus.footer]]
 name = "Home"
 URL = "/"
-weight = 1
+weight = 4
 
 [[languages.en.menus.footer]]
 name = "About"
 URL = "#about"
-weight = 2
+weight = 5
 
-[[languages.en.menus.footer]]
-name = "Portfolio"
-URL = "#portfolio"
-weight = 3
+# [[languages.en.menus.footer]]
+# name = "Portfolio"
+# URL = "#portfolio"
+# weight = 3
 
 [[languages.en.menus.footer]]
 name = "Contact"
 URL = "#contact"
-weight = 4
+weight = 6
 
 
 [languages.es]
-disabled = false
+disabled = true
 languageCode = 'es'
 languageDirection = 'ltr'
 languageName = 'Español'
@@ -251,7 +251,7 @@ URL = "/es/#contact"
 weight = 4
 
 [languages.fr]
-disabled = false
+disabled = true
 languageCode = 'fr'
 languageDirection = 'ltr'
 languageName = 'Français'
