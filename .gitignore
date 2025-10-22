@@ -1,12 +1,8 @@
 /config.yaml
 .vscode
 
-vendor/*/
-wercker
-.wercker
 .DS_STORE
 node_modules/
-.vercel
 
 ### Hugo ###
 # Generated files by hugo
