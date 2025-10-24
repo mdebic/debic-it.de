@@ -15,7 +15,7 @@ draft = false
     contact_email_title="My mail"
     contact_email_email="<a href='mailto:info@debic-it.de'>info@debic-it.de</a>"
     contact_address_title="My location"
-    contact_address_address="🇩🇪 Germany, Heidelberg"
+    contact_address_address="Germany, Heidelberg"
     form_action="https://formspree.io/f/mkgqlzyv"
     form_method="POST"
     contact_form_rows="3"
