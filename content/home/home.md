@@ -38,13 +38,12 @@ button_url="/skills" -->
     title="Education" >}}
 
 {{< experience-section
-    title="Experience"
-    intro_title=" "
-    intro_description="Description (intro_description).<br>You can use HTML,with <strong>strong</strong> formatting, or lists <ul><li>one</li><li>two</li></ul>" 
-    button1_url="https://example.com"
-    button1_text="(1) Visit Example"
-    button1_icon="icon-globe"
-    button2_text="(2) Skills"
+    intro_title="Experience"
+    intro_description="I led healthcare IT, data engineering, and AI initiatives, designing and integrating clinical IT systems to enable seamless workflows and improve patient care through digital solutions."
+    button1_url="https://www.linkedin.com/in/manuel-debic/"
+    button1_text="See on LinkedIn"
+    button1_icon="icon-linkedin"
+    button2_text="See my skills"
     button2_url="/skills"
     hideViewAll="false"
 >}}
