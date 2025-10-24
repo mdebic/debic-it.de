@@ -36,10 +36,10 @@ button_url="/skills" -->
 
  {{< education-list
     title="Education" >}}
-<!--
+
 {{< experience-section
-    title="My job experience (title)"
-    intro_title="Intro (intro_title)"
+    title="Experience"
+    intro_title=" "
     intro_description="Description (intro_description).<br>You can use HTML,with <strong>strong</strong> formatting, or lists <ul><li>one</li><li>two</li></ul>" 
     button1_url="https://example.com"
     button1_text="(1) Visit Example"
@@ -48,7 +48,7 @@ button_url="/skills" -->
     button2_url="/skills"
     hideViewAll="false"
 >}}
-
+<!--
 {{< experience-list
     title="Experience (as list)"
     padding="false" >}}
