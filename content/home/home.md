@@ -28,7 +28,6 @@ draft = false
     {{< link icon="linkedin" url="https://www.linkedin.com/in/manuel-debic/" >}}
     {{< link icon="square-github" url="https://github.com/mdebic" >}}
     {{< link icon="user" url="https://www.researchgate.net/profile/Manuel_Debic" >}}
-    {{< link icon="user" url="https://pubmed.ncbi.nlm.nih.gov/?term=Debic+M%5BAuthor%5D&sort=" >}}
     {{< link icon="user" url="https://scholar.google.co.uk/citations?user=VEMEx00AAAAJ&hl=en" >}}
 {{< /platform-links >}}
 
