@@ -35,9 +35,9 @@ draft = false
 <!-- button_text="Check my skills"
 button_url="/skills" -->
 
-<!-- {{< education-list
-    title="Formal Education (education-list)" >}}
-
+ {{< education-list
+    title="Education" >}}
+<!--
 {{< experience-section
     title="My job experience (title)"
     intro_title="Intro (intro_title)"
