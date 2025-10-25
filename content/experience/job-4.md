@@ -12,15 +12,11 @@ duration: "2024-2025"
 ## IT Lead
 
 Division for Computational Radiology & Clinical AI, Bonn University Hospital
-* Lead the development and management of IT infrastructure to support
-computational radiology and healthcare interoperability
-* Oversee data engineering and system integration for medical imaging and
-AI applications
-* Ensure security, scalability, and efficiency of research IT systems, aligning
-with healthcare industry standards such as HL7/FHIR, and DICOM
-* Collaborate with clinicians, researchers, and IT teams to integrate ML, AI,
-and interoperability solutions into research workflows
-* Implement and maintain hardware solutions for high-performance
-computing in medical research
-* Develop and maintain programming solutions (Python) to enhance clinical
-applications and facilitate seamless healthcare data exchange
+* Manage and develop IT infrastructure to support computational radiology and clinical AI research
+* Oversee data engineering and storage solutions for medical imaging and AI applications
+* Ensure the security, scalability, and efficiency of research IT systems
+* Collaborate with researchers to integrate AI-driven solutions into healthcare workflows
+* Lead technical projects and support interdisciplinary research teams
+* Optimize software and hardware solutions for high-performance computing in medical AI
+* Provide technical guidance on data governance, compliance, and interoperability
+* Develop and maintain programming solutions to enhance research and clinical applications

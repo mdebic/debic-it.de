@@ -12,19 +12,14 @@ duration: "2021-2024"
 ## IT Lead
 
 Diagnostic and Interventional Radiology, Heidelberg University Hospital
-* Led IT strategy and operations, ensuring seamless interoperability across
-research and clinical environments
-* Disciplinary and technical management of the IT department, overseeing
-the team’s responsibility for IT infrastructure and medical devices
-▪ Implemented IT projects and programming solutions (Python), optimising
-workflows and enabling integration of ML andd AI into clinical routine
-Research Assistant
-January 2021 – September 2024
-Data Engineer
-September 2019 – December 2020
-▪ Designed IT infrastructure for data management, ensuring compliance with
-healthcare interoperability standards such as HL7/FHIR, and DICOM
-▪ Advised researchers and medical practitioners on data science, data
-analysis, and data governance solutions for medical applications
-▪ Acted as the primary IT liaison for industrial and governmental partners,
-fostering collaboration on new technologies and digital health initiatives
+* Head of IT of the Department for Diagnostic and Interventional Radiology
+* Planning, controlling and implementation of IT projects in the field of research and the clinical routine
+* Responsible for the developement of the IT infrastructure with a focus on data science and artificial intelligence
+* Consulting of researchers and medical practitioners regarding methods, applications and infrastructure
+* IT contact person for cooperating industrial partners
+* Led IT strategy and operations, ensuring seamless interoperability across research and clinical environments
+* Disciplinary and technical management of the IT department, overseeing the team’s responsibility for IT infrastructure and medical devices
+* Implemented IT projects and programming solutions (Python), optimising workflows and enabling integration of ML and AI into clinical routine
+* Designed IT infrastructure for data management, ensuring compliance with healthcare interoperability standards such as HL7/FHIR, and DICOM
+* Advised researchers and medical practitioners on data science, data analysis, and data governance solutions for medical applications
+* Acted as the primary IT liaison for industrial and governmental partners, fostering collaboration on new technologies and digital health initiatives
